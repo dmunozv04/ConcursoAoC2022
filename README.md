@@ -1,4 +1,6 @@
 # ConcursoAoC2022
+##Tabla con mis estrellas:
+<!--- advent_readme_stars table --->
 ## Enlaces importantes
 
 - [Crear *fork* de un repositorio](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
