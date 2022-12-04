@@ -1,6 +1,15 @@
 # ConcursoAoC2022
 ##Tabla con mis estrellas:
 <!--- advent_readme_stars table --->
+## 2022 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2022/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2022/day/2) | ⭐ | ⭐ |
+| [Day 3](https://adventofcode.com/2022/day/3) | ⭐ | ⭐ |
+| [Day 4](https://adventofcode.com/2022/day/4) | ⭐ | ⭐ |
+<!--- advent_readme_stars table --->
 ## Enlaces importantes
 
 - [Crear *fork* de un repositorio](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
