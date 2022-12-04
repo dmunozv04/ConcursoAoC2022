@@ -1,5 +1,5 @@
 # ConcursoAoC2022
-##Tabla con mis estrellas:
+## Tabla con mis estrellas:
 <!--- advent_readme_stars table --->
 ## 2022 Results
 
